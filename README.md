@@ -1,4 +1,4 @@
-# T5 Text Summarization using PyTorch
+# Fine-tuned T5 Text Summarization using PyTorch
 
 This project demonstrates **fine-tuning the T5 Transformer model** for
 text summarization using **PyTorch** and the HuggingFace Transformers
